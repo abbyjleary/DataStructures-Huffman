@@ -1,4 +1,4 @@
-# Data Structures Indexing Project
+# Data Structures Huffman Project
 
 This project was written for my CS3610 Data Structures class in Fall of 2022. The purpose of this project was to use Huffman code tree to encode and decode files. 
 
